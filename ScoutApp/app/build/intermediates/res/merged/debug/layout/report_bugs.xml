@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_margin="5dp"
+    android:orientation="vertical">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.2"
+        android:orientation="horizontal">
+        <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="0.3"
+                android:text= "Description About our App"
+                android:background="#808080"
+                android:textAlignment="center"
+                android:textSize="25dp"
+                android:paddingTop="15dp"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:text="Hi,
+We are Graduate Students of Syracuse and have developed this application as a part of our final project.
+Our application provides the platform for the users to find the restaurants,pubs, events and movies near the user or at the specified location.It also provides the user to share the events to which the user wants to attend.Our application also provides the notification center where the user gets theevents scheduled.The user can see the events which are schedule.
+Your are free to report the bugs, you can contact us through our email ids."/>
+        </LinearLayout>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.02">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text= "Developers"
+            android:background="#808080"
+            android:textAlignment="center"
+            android:textSize="20dp"
+            android:paddingTop="0dp"/>
+    </LinearLayout>
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.125"
+        android:gravity="center"
+        android:orientation="vertical">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1">
+            <com.syracuse.rameka.scoutapp.DoubleTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                app:leftText="Name:Hemanth Dahagam"
+                app:rightText="Name:Ramakrishna Sayee Meka"/>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1">
+            <com.syracuse.rameka.scoutapp.DoubleTextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                app:leftText="Email Id:hdahagam@syr.edu"
+                app:rightText="Email Id:rameka@syr.edu"/>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="5"></LinearLayout>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.01">
+    </LinearLayout>
+</LinearLayout>

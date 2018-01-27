@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\hdaha\\Downloads\\ScoutApp-20180127T075104Z-001\\ScoutApp\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main_menu.xml",
+        "source": "C:\\Users\\hdaha\\Downloads\\ScoutApp-20180127T075104Z-001\\ScoutApp\\app\\src\\main\\res\\menu\\main_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\hdaha\\Downloads\\ScoutApp-20180127T075104Z-001\\ScoutApp\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_recycler.xml",
+        "source": "C:\\Users\\hdaha\\Downloads\\ScoutApp-20180127T075104Z-001\\ScoutApp\\app\\src\\main\\res\\menu\\menu_recycler.xml"
+    },
+    {
+        "merged": "C:\\Users\\hdaha\\Downloads\\ScoutApp-20180127T075104Z-001\\ScoutApp\\app\\build\\intermediates\\res\\merged\\debug\\menu\\card_menu.xml",
+        "source": "C:\\Users\\hdaha\\Downloads\\ScoutApp-20180127T075104Z-001\\ScoutApp\\app\\src\\main\\res\\menu\\card_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\hdaha\\Downloads\\ScoutApp-20180127T075104Z-001\\ScoutApp\\app\\build\\intermediates\\res\\merged\\debug\\menu\\navigation.xml",
+        "source": "C:\\Users\\hdaha\\Downloads\\ScoutApp-20180127T075104Z-001\\ScoutApp\\app\\src\\main\\res\\menu\\navigation.xml"
+    },
+    {
+        "merged": "C:\\Users\\hdaha\\Downloads\\ScoutApp-20180127T075104Z-001\\ScoutApp\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_navigation_drawer.xml",
+        "source": "C:\\Users\\hdaha\\Downloads\\ScoutApp-20180127T075104Z-001\\ScoutApp\\app\\src\\main\\res\\menu\\activity_navigation_drawer.xml"
+    }
+]

@@ -1,0 +1,63 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.syracuse.rameka.scoutapp.DisplayLocationMap">
+
+    <!-- TODO: Update blank fragment layout -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="0dp"
+        android:orientation="vertical"
+        android:background="@drawable/shape3"
+        android:weightSum="1">
+
+        <fragment
+            android:id="@+id/map4"
+            android:name="com.google.android.gms.maps.SupportMapFragment"
+            android:layout_width="match_parent"
+            android:layout_height="450dp"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentStart="true"
+            tools:context="com.example.mapwithmarker.MapsMarkerActivity" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="0dp"
+        android:orientation="vertical"
+        android:background="@drawable/shape3"
+        android:weightSum="1">
+
+        <Button
+            android:id="@+id/goToExplore"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:background="#FF8A80"
+            android:layout_weight="0.5"
+            android:gravity="center"
+            android:drawableRight="@drawable/chevronright"
+            android:drawablePadding="-30dp"
+            android:text="Explore"
+            android:textColor="@android:color/background_light"
+            android:textSize="15sp"
+            />
+        <Button
+            android:id="@+id/selCity"
+            style="@style/Widget.AppCompat.Button.Borderless"
+            android:layout_width="match_parent"
+            android:drawableLeft="@drawable/chevronleft"
+            android:drawablePadding="-20dp"
+            android:layout_height="0dp"
+            android:layout_weight="0.5"
+            android:background="#757575"
+            android:text="Select another City"
+            android:textColor="@android:color/background_light"
+            android:textSize="15sp"
+            />
+    </LinearLayout>
+
+</LinearLayout>

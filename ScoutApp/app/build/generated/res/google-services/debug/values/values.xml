@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">951298335706-cj1e1ve9urqangb5drcehi53j82fp8rd.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://scoutcity-ff6d4.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">951298335706</string>
+    <string name="google_api_key" translatable="false">AIzaSyCYQN30Zjy7tyhfPVAzr3QrDkjlcN7-qv0</string>
+    <string name="google_app_id" translatable="false">1:951298335706:android:58d4fa7aa6a6deb9</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCYQN30Zjy7tyhfPVAzr3QrDkjlcN7-qv0</string>
+    <string name="google_storage_bucket" translatable="false">scoutcity-ff6d4.appspot.com</string>
+    <string name="project_id" translatable="false">scoutcity-ff6d4</string>
+</resources>

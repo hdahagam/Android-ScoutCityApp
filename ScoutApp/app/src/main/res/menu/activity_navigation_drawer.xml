@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/exploreAction"
+            android:icon="@drawable/explore"
+            android:title="Explore" />
+
+        <item
+            android:id="@+id/locationAction"
+            android:icon="@drawable/locnav"
+            android:title="Location" />
+        <item
+            android:id="@+id/profileAction"
+            android:icon="@drawable/usernav"
+            android:title="Profile" />
+        <item
+            android:id="@+id/reportAction"
+            android:icon="@drawable/bug"
+            android:title="Report Bugs" />
+        <item
+        android:id="@+id/logout"
+        android:icon="@drawable/logout"
+        android:title="Logout" />
+
+    </group>
+
+</menu>
+
+
+

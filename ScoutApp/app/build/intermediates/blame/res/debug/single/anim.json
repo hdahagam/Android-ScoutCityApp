@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "C:\\Users\\hdaha\\Downloads\\ScoutApp-20180127T075104Z-001\\ScoutApp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\hdaha\\.android\\build-cache\\6bbd35dae9baefb76fac204dac31ba981dee3482\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\hdaha\\Downloads\\ScoutApp-20180127T075104Z-001\\ScoutApp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\hdaha\\.android\\build-cache\\6bbd35dae9baefb76fac204dac31ba981dee3482\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\hdaha\\Downloads\\ScoutApp-20180127T075104Z-001\\ScoutApp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "C:\\Users\\hdaha\\.android\\build-cache\\d7f689ee7961447264fdd9e74ce7d936c5d69ea8\\output\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\hdaha\\Downloads\\ScoutApp-20180127T075104Z-001\\ScoutApp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\hdaha\\.android\\build-cache\\6bbd35dae9baefb76fac204dac31ba981dee3482\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\hdaha\\Downloads\\ScoutApp-20180127T075104Z-001\\ScoutApp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\hdaha\\.android\\build-cache\\6bbd35dae9baefb76fac204dac31ba981dee3482\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\hdaha\\Downloads\\ScoutApp-20180127T075104Z-001\\ScoutApp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\hdaha\\.android\\build-cache\\6bbd35dae9baefb76fac204dac31ba981dee3482\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\hdaha\\Downloads\\ScoutApp-20180127T075104Z-001\\ScoutApp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\hdaha\\.android\\build-cache\\6bbd35dae9baefb76fac204dac31ba981dee3482\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\hdaha\\Downloads\\ScoutApp-20180127T075104Z-001\\ScoutApp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\item_animation_right.xml",
+        "source": "C:\\Users\\hdaha\\Downloads\\ScoutApp-20180127T075104Z-001\\ScoutApp\\app\\src\\main\\res\\anim\\item_animation_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\hdaha\\Downloads\\ScoutApp-20180127T075104Z-001\\ScoutApp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\right.xml",
+        "source": "C:\\Users\\hdaha\\Downloads\\ScoutApp-20180127T075104Z-001\\ScoutApp\\app\\src\\main\\res\\anim\\right.xml"
+    },
+    {
+        "merged": "C:\\Users\\hdaha\\Downloads\\ScoutApp-20180127T075104Z-001\\ScoutApp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\hdaha\\.android\\build-cache\\6bbd35dae9baefb76fac204dac31ba981dee3482\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\hdaha\\Downloads\\ScoutApp-20180127T075104Z-001\\ScoutApp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\tooltip_enter.xml",
+        "source": "C:\\Users\\hdaha\\.android\\build-cache\\6bbd35dae9baefb76fac204dac31ba981dee3482\\output\\res\\anim\\tooltip_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\hdaha\\Downloads\\ScoutApp-20180127T075104Z-001\\ScoutApp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\hdaha\\.android\\build-cache\\6bbd35dae9baefb76fac204dac31ba981dee3482\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\hdaha\\Downloads\\ScoutApp-20180127T075104Z-001\\ScoutApp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "C:\\Users\\hdaha\\.android\\build-cache\\d7f689ee7961447264fdd9e74ce7d936c5d69ea8\\output\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\hdaha\\Downloads\\ScoutApp-20180127T075104Z-001\\ScoutApp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\hdaha\\.android\\build-cache\\6bbd35dae9baefb76fac204dac31ba981dee3482\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\hdaha\\Downloads\\ScoutApp-20180127T075104Z-001\\ScoutApp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\hdaha\\.android\\build-cache\\6bbd35dae9baefb76fac204dac31ba981dee3482\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\hdaha\\Downloads\\ScoutApp-20180127T075104Z-001\\ScoutApp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\tooltip_exit.xml",
+        "source": "C:\\Users\\hdaha\\.android\\build-cache\\6bbd35dae9baefb76fac204dac31ba981dee3482\\output\\res\\anim\\tooltip_exit.xml"
+    }
+]

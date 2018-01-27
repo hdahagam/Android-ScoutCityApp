@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="200dp"
+    android:gravity="bottom"
+    android:orientation="vertical"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:background="@drawable/navigationheader2"
+    android:alpha="0.8"
+    android:theme="@style/ThemeOverlay.AppCompat.Dark"
+    android:weightSum="1">
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/profile_image"
+        android:layout_width="96dp"
+        android:layout_marginTop="4dp"
+        android:layout_height="96dp"
+        android:src="@drawable/user_img"
+        app:civ_border_color="#ffff"
+        app:civ_border_width="0.5dp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="15dp"
+        android:layout_marginTop="5dp"
+        android:layout_gravity="center|left"
+        android:textSize="20dp"
+        android:layout_weight="0.5"
+        android:id="@+id/navigationName"
+        android:textColor="#ffffff"
+        android:text="Hemanth Dahagam"
+        android:textStyle=""/>
+    <TextView
+        android:id="@+id/navigationEmail"
+        android:layout_marginTop="7dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.3"
+        android:textColor="#ffff"
+        android:text="hdahagam@syr.edu" />
+
+</LinearLayout>

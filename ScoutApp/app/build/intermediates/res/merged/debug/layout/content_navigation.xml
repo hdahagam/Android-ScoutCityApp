@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/mainNavScreen">
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/my_toolbar"
+        android:layout_width="0dp"
+        android:layout_height="56dp"
+        android:background="@color/colorPrimary"
+        android:elevation="4dp"
+        android:theme="@style/ThemeOverlay.AppCompat.ActionBar"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+    </android.support.v7.widget.Toolbar>
+
+    <FrameLayout
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:id="@+id/navFrame"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintTop_toBottomOf="@+id/my_toolbar"
+        app:layout_constraintBottom_toBottomOf="parent">
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentStart="true">
+
+        <LinearLayout
+            android:id="@+id/col1"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="2.25"
+            android:background="#696969"
+            android:orientation="vertical">
+
+            <Button
+                android:id="@+id/chicago"
+                style="@style/Widget.AppCompat.Button.Borderless"
+                android:layout_width="match_parent"
+                android:layout_height="110dp"
+                android:layout_weight="1"
+                android:elevation="0dp"
+                android:background="@drawable/chicago"
+                android:backgroundTintMode="multiply"
+                android:backgroundTint="#C5CAE9"
+                android:text="Chicago"
+                android:textColor="@android:color/background_light"
+                android:textSize="15sp"
+                />
+
+            <Button
+                android:id="@+id/newyork"
+                style="@style/Widget.AppCompat.Button.Borderless"
+                android:layout_width="match_parent"
+                android:layout_height="110dp"
+                android:backgroundTint="#C5CAE9"
+                android:backgroundTintMode="multiply"
+                android:background="@drawable/newyork"
+                android:text="New York"
+                android:textColor="@android:color/background_light"
+                android:textSize="15sp"
+                />
+
+            <Button
+                android:id="@+id/sanfransisco"
+                style="@style/Widget.AppCompat.Button.Borderless"
+                android:layout_width="match_parent"
+                android:layout_height="110dp"
+                android:background="@drawable/sanfransisco"
+                android:backgroundTintMode="multiply"
+                android:backgroundTint="#FFCDD2"
+                android:text="San Fransisco"
+                android:textColor="@android:color/background_light"
+                android:textSize="15sp"
+                />
+
+            <Button
+                android:id="@+id/boston"
+                style="@style/Widget.AppCompat.Button.Borderless"
+                android:layout_width="match_parent"
+                android:layout_height="110dp"
+                android:background="@drawable/boston"
+                android:backgroundTint="#B2EBF2"
+                android:backgroundTintMode="multiply"
+                android:layout_weight="1"
+                android:text="Boston"
+                android:textColor="@android:color/background_light"
+                android:textSize="15sp"
+                />
+            <Button
+                android:id="@+id/seattle"
+                style="@style/Widget.AppCompat.Button.Borderless"
+                android:background="@drawable/seattle"
+                android:backgroundTintMode="multiply"
+                android:backgroundTint="#FFE0B2"
+                android:layout_width="match_parent"
+                android:layout_height="110dp"
+                android:text="Seattle"
+                android:textColor="@android:color/background_light"
+                android:textSize="15sp"
+                />
+            <Button
+                android:id="@+id/Syracuse"
+                style="@style/Widget.AppCompat.Button.Borderless"
+                android:backgroundTint="#D7CCC8"
+                android:background="@drawable/syracuse"
+                android:backgroundTintMode="multiply"
+                android:layout_width="match_parent"
+                android:layout_height="110dp"
+                android:text="Syracuse"
+                android:textColor="@android:color/background_light"
+                android:textSize="15sp"
+                />
+            <Button
+                android:id="@+id/LasVegas"
+                style="@style/Widget.AppCompat.Button.Borderless"
+                android:backgroundTintMode="multiply"
+                android:background="@drawable/lasvegas"
+                android:backgroundTint="#B39DDB"
+                android:layout_width="match_parent"
+                android:layout_height="110dp"
+                android:layout_weight="1"
+                android:text="Las Vegas"
+                android:textColor="@android:color/background_light"
+                android:textSize="15sp"
+                />
+            <Button
+                android:id="@+id/currentLoc"
+                style="@style/Widget.AppCompat.Button.Borderless"
+                android:layout_width="match_parent"
+                android:layout_height="70dp"
+                android:layout_weight="1"
+                android:paddingLeft="5dp"
+                android:text="Set current Location"
+                android:drawableLeft="@drawable/location"
+                android:background="#F44336"
+                android:textColor="@android:color/background_light"
+                android:textSize="15sp"
+                />
+        </LinearLayout>
+
+        </ScrollView>
+
+    </FrameLayout>
+
+</android.support.constraint.ConstraintLayout>
+

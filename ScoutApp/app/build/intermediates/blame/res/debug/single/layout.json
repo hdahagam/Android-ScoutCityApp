@@ -1,0 +1,406 @@
+[
+    {
+        "merged": "C:\\Users\\hdaha\\Downloads\\ScoutApp-20180127T075104Z-001\\ScoutApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\hdaha\\.android\\build-cache\\6bbd35dae9baefb76fac204dac31ba981dee3482\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\hdaha\\Downloads\\ScoutApp-20180127T075104Z-001\\ScoutApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash_screen.xml",
+        "source": "C:\\Users\\hdaha\\Downloads\\ScoutApp-20180127T075104Z-001\\ScoutApp\\app\\src\\main\\res\\layout\\activity_splash_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\hdaha\\Downloads\\ScoutApp-20180127T075104Z-001\\ScoutApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\recycler_cardview_2.xml",
+        "source": "C:\\Users\\hdaha\\Downloads\\ScoutApp-20180127T075104Z-001\\ScoutApp\\app\\src\\main\\res\\layout\\recycler_cardview_2.xml"
+    },
+    {
+        "merged": "C:\\Users\\hdaha\\Downloads\\ScoutApp-20180127T075104Z-001\\ScoutApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\hdaha\\.android\\build-cache\\6bbd35dae9baefb76fac204dac31ba981dee3482\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\hdaha\\Downloads\\ScoutApp-20180127T075104Z-001\\ScoutApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\hdaha\\.android\\build-cache\\d7f689ee7961447264fdd9e74ce7d936c5d69ea8\\output\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\hdaha\\Downloads\\ScoutApp-20180127T075104Z-001\\ScoutApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_navigation.xml",
+        "source": "C:\\Users\\hdaha\\Downloads\\ScoutApp-20180127T075104Z-001\\ScoutApp\\app\\src\\main\\res\\layout\\content_navigation.xml"
+    },
+    {
+        "merged": "C:\\Users\\hdaha\\Downloads\\ScoutApp-20180127T075104Z-001\\ScoutApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\hdaha\\.android\\build-cache\\6bbd35dae9baefb76fac204dac31ba981dee3482\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\hdaha\\Downloads\\ScoutApp-20180127T075104Z-001\\ScoutApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\hdaha\\.android\\build-cache\\3231ba1d3a55e7801283b28ae079c2953ef17f6a\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\hdaha\\Downloads\\ScoutApp-20180127T075104Z-001\\ScoutApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\hdaha\\.android\\build-cache\\6bbd35dae9baefb76fac204dac31ba981dee3482\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "C:\\Users\\hdaha\\Downloads\\ScoutApp-20180127T075104Z-001\\ScoutApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\recycler_cardview_1.xml",
+        "source": "C:\\Users\\hdaha\\Downloads\\ScoutApp-20180127T075104Z-001\\ScoutApp\\app\\src\\main\\res\\layout\\recycler_cardview_1.xml"
+    },
+    {
+        "merged": "C:\\Users\\hdaha\\Downloads\\ScoutApp-20180127T075104Z-001\\ScoutApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\hdaha\\.android\\build-cache\\6bbd35dae9baefb76fac204dac31ba981dee3482\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\hdaha\\Downloads\\ScoutApp-20180127T075104Z-001\\ScoutApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\hdaha\\.android\\build-cache\\3231ba1d3a55e7801283b28ae079c2953ef17f6a\\output\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\hdaha\\Downloads\\ScoutApp-20180127T075104Z-001\\ScoutApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\hdaha\\.android\\build-cache\\6bbd35dae9baefb76fac204dac31ba981dee3482\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\hdaha\\Downloads\\ScoutApp-20180127T075104Z-001\\ScoutApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "C:\\Users\\hdaha\\.android\\build-cache\\6bbd35dae9baefb76fac204dac31ba981dee3482\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\hdaha\\Downloads\\ScoutApp-20180127T075104Z-001\\ScoutApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_cafe_detail.xml",
+        "source": "C:\\Users\\hdaha\\Downloads\\ScoutApp-20180127T075104Z-001\\ScoutApp\\app\\src\\main\\res\\layout\\fragment_cafe_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\hdaha\\Downloads\\ScoutApp-20180127T075104Z-001\\ScoutApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\hdaha\\.android\\build-cache\\6bbd35dae9baefb76fac204dac31ba981dee3482\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\hdaha\\Downloads\\ScoutApp-20180127T075104Z-001\\ScoutApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_profile_page.xml",
+        "source": "C:\\Users\\hdaha\\Downloads\\ScoutApp-20180127T075104Z-001\\ScoutApp\\app\\src\\main\\res\\layout\\fragment_profile_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\hdaha\\Downloads\\ScoutApp-20180127T075104Z-001\\ScoutApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\recycler_cardview_3.xml",
+        "source": "C:\\Users\\hdaha\\Downloads\\ScoutApp-20180127T075104Z-001\\ScoutApp\\app\\src\\main\\res\\layout\\recycler_cardview_3.xml"
+    },
+    {
+        "merged": "C:\\Users\\hdaha\\Downloads\\ScoutApp-20180127T075104Z-001\\ScoutApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "C:\\Users\\hdaha\\.android\\build-cache\\d7f689ee7961447264fdd9e74ce7d936c5d69ea8\\output\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\hdaha\\Downloads\\ScoutApp-20180127T075104Z-001\\ScoutApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_restaurant_recycler.xml",
+        "source": "C:\\Users\\hdaha\\Downloads\\ScoutApp-20180127T075104Z-001\\ScoutApp\\app\\src\\main\\res\\layout\\fragment_restaurant_recycler.xml"
+    },
+    {
+        "merged": "C:\\Users\\hdaha\\Downloads\\ScoutApp-20180127T075104Z-001\\ScoutApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\hdaha\\Downloads\\ScoutApp-20180127T075104Z-001\\ScoutApp\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\hdaha\\Downloads\\ScoutApp-20180127T075104Z-001\\ScoutApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\hdaha\\.android\\build-cache\\6bbd35dae9baefb76fac204dac31ba981dee3482\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\hdaha\\Downloads\\ScoutApp-20180127T075104Z-001\\ScoutApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\hdaha\\.android\\build-cache\\6bbd35dae9baefb76fac204dac31ba981dee3482\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\hdaha\\Downloads\\ScoutApp-20180127T075104Z-001\\ScoutApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "C:\\Users\\hdaha\\.android\\build-cache\\d7f689ee7961447264fdd9e74ce7d936c5d69ea8\\output\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\hdaha\\Downloads\\ScoutApp-20180127T075104Z-001\\ScoutApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\hdaha\\.android\\build-cache\\3231ba1d3a55e7801283b28ae079c2953ef17f6a\\output\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\hdaha\\Downloads\\ScoutApp-20180127T075104Z-001\\ScoutApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "C:\\Users\\hdaha\\.android\\build-cache\\d7f689ee7961447264fdd9e74ce7d936c5d69ea8\\output\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\hdaha\\Downloads\\ScoutApp-20180127T075104Z-001\\ScoutApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_help_text.xml",
+        "source": "C:\\Users\\hdaha\\.android\\build-cache\\5c8d8bb9ab740baa801bb7aa787835c3c1760f22\\output\\res\\layout\\cast_help_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\hdaha\\Downloads\\ScoutApp-20180127T075104Z-001\\ScoutApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\loginscreen.xml",
+        "source": "C:\\Users\\hdaha\\Downloads\\ScoutApp-20180127T075104Z-001\\ScoutApp\\app\\src\\main\\res\\layout\\loginscreen.xml"
+    },
+    {
+        "merged": "C:\\Users\\hdaha\\Downloads\\ScoutApp-20180127T075104Z-001\\ScoutApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_playback_control.xml",
+        "source": "C:\\Users\\hdaha\\.android\\build-cache\\093dcf0617e99f41dddf7dce028c8854f17a21dc\\output\\res\\layout\\mr_playback_control.xml"
+    },
+    {
+        "merged": "C:\\Users\\hdaha\\Downloads\\ScoutApp-20180127T075104Z-001\\ScoutApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_tracks_chooser_dialog_layout.xml",
+        "source": "C:\\Users\\hdaha\\.android\\build-cache\\5c8d8bb9ab740baa801bb7aa787835c3c1760f22\\output\\res\\layout\\cast_tracks_chooser_dialog_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\hdaha\\Downloads\\ScoutApp-20180127T075104Z-001\\ScoutApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "C:\\Users\\hdaha\\.android\\build-cache\\d7f689ee7961447264fdd9e74ce7d936c5d69ea8\\output\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\hdaha\\Downloads\\ScoutApp-20180127T075104Z-001\\ScoutApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\hdaha\\.android\\build-cache\\3231ba1d3a55e7801283b28ae079c2953ef17f6a\\output\\res\\layout\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\hdaha\\Downloads\\ScoutApp-20180127T075104Z-001\\ScoutApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\hdaha\\.android\\build-cache\\6bbd35dae9baefb76fac204dac31ba981dee3482\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\hdaha\\Downloads\\ScoutApp-20180127T075104Z-001\\ScoutApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_progress.xml",
+        "source": "C:\\Users\\hdaha\\.android\\build-cache\\66b637bfffec9ccb9774c88338384e95874ce656\\output\\res\\layout\\place_autocomplete_progress.xml"
+    },
+    {
+        "merged": "C:\\Users\\hdaha\\Downloads\\ScoutApp-20180127T075104Z-001\\ScoutApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\hdaha\\.android\\build-cache\\6bbd35dae9baefb76fac204dac31ba981dee3482\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\hdaha\\Downloads\\ScoutApp-20180127T075104Z-001\\ScoutApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_recommended_detail.xml",
+        "source": "C:\\Users\\hdaha\\Downloads\\ScoutApp-20180127T075104Z-001\\ScoutApp\\app\\src\\main\\res\\layout\\fragment_recommended_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\hdaha\\Downloads\\ScoutApp-20180127T075104Z-001\\ScoutApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_item_powered_by_google.xml",
+        "source": "C:\\Users\\hdaha\\.android\\build-cache\\66b637bfffec9ccb9774c88338384e95874ce656\\output\\res\\layout\\place_autocomplete_item_powered_by_google.xml"
+    },
+    {
+        "merged": "C:\\Users\\hdaha\\Downloads\\ScoutApp-20180127T075104Z-001\\ScoutApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\hdaha\\.android\\build-cache\\6bbd35dae9baefb76fac204dac31ba981dee3482\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "C:\\Users\\hdaha\\Downloads\\ScoutApp-20180127T075104Z-001\\ScoutApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\hdaha\\.android\\build-cache\\6bbd35dae9baefb76fac204dac31ba981dee3482\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\hdaha\\Downloads\\ScoutApp-20180127T075104Z-001\\ScoutApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_cafe_recycler.xml",
+        "source": "C:\\Users\\hdaha\\Downloads\\ScoutApp-20180127T075104Z-001\\ScoutApp\\app\\src\\main\\res\\layout\\fragment_cafe_recycler.xml"
+    },
+    {
+        "merged": "C:\\Users\\hdaha\\Downloads\\ScoutApp-20180127T075104Z-001\\ScoutApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_tracks_chooser_dialog_row_layout.xml",
+        "source": "C:\\Users\\hdaha\\.android\\build-cache\\5c8d8bb9ab740baa801bb7aa787835c3c1760f22\\output\\res\\layout\\cast_tracks_chooser_dialog_row_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\hdaha\\Downloads\\ScoutApp-20180127T075104Z-001\\ScoutApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "C:\\Users\\hdaha\\.android\\build-cache\\3231ba1d3a55e7801283b28ae079c2953ef17f6a\\output\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\hdaha\\Downloads\\ScoutApp-20180127T075104Z-001\\ScoutApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "C:\\Users\\hdaha\\.android\\build-cache\\3231ba1d3a55e7801283b28ae079c2953ef17f6a\\output\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\hdaha\\Downloads\\ScoutApp-20180127T075104Z-001\\ScoutApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "C:\\Users\\hdaha\\.android\\build-cache\\d7f689ee7961447264fdd9e74ce7d936c5d69ea8\\output\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\hdaha\\Downloads\\ScoutApp-20180127T075104Z-001\\ScoutApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\hdaha\\.android\\build-cache\\14f86e9817720e982b66d56bf97f9cb72b19ff68\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\hdaha\\Downloads\\ScoutApp-20180127T075104Z-001\\ScoutApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\double_text.xml",
+        "source": "C:\\Users\\hdaha\\Downloads\\ScoutApp-20180127T075104Z-001\\ScoutApp\\app\\src\\main\\res\\layout\\double_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\hdaha\\Downloads\\ScoutApp-20180127T075104Z-001\\ScoutApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\report_bugs.xml",
+        "source": "C:\\Users\\hdaha\\Downloads\\ScoutApp-20180127T075104Z-001\\ScoutApp\\app\\src\\main\\res\\layout\\report_bugs.xml"
+    },
+    {
+        "merged": "C:\\Users\\hdaha\\Downloads\\ScoutApp-20180127T075104Z-001\\ScoutApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_navigation_item.xml",
+        "source": "C:\\Users\\hdaha\\.android\\build-cache\\d7f689ee7961447264fdd9e74ce7d936c5d69ea8\\output\\res\\layout\\design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\hdaha\\Downloads\\ScoutApp-20180127T075104Z-001\\ScoutApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_recommended_recycler.xml",
+        "source": "C:\\Users\\hdaha\\Downloads\\ScoutApp-20180127T075104Z-001\\ScoutApp\\app\\src\\main\\res\\layout\\fragment_recommended_recycler.xml"
+    },
+    {
+        "merged": "C:\\Users\\hdaha\\Downloads\\ScoutApp-20180127T075104Z-001\\ScoutApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\hdaha\\.android\\build-cache\\6bbd35dae9baefb76fac204dac31ba981dee3482\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "C:\\Users\\hdaha\\Downloads\\ScoutApp-20180127T075104Z-001\\ScoutApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\hdaha\\.android\\build-cache\\6bbd35dae9baefb76fac204dac31ba981dee3482\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\hdaha\\Downloads\\ScoutApp-20180127T075104Z-001\\ScoutApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\autocomplete_google_logo.xml",
+        "source": "C:\\Users\\hdaha\\Downloads\\ScoutApp-20180127T075104Z-001\\ScoutApp\\app\\src\\main\\res\\layout\\autocomplete_google_logo.xml"
+    },
+    {
+        "merged": "C:\\Users\\hdaha\\Downloads\\ScoutApp-20180127T075104Z-001\\ScoutApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "C:\\Users\\hdaha\\.android\\build-cache\\d7f689ee7961447264fdd9e74ce7d936c5d69ea8\\output\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\hdaha\\Downloads\\ScoutApp-20180127T075104Z-001\\ScoutApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\hdaha\\.android\\build-cache\\6bbd35dae9baefb76fac204dac31ba981dee3482\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\hdaha\\Downloads\\ScoutApp-20180127T075104Z-001\\ScoutApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\hdaha\\.android\\build-cache\\14f86e9817720e982b66d56bf97f9cb72b19ff68\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\hdaha\\Downloads\\ScoutApp-20180127T075104Z-001\\ScoutApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_expanded_controller_activity.xml",
+        "source": "C:\\Users\\hdaha\\.android\\build-cache\\5c8d8bb9ab740baa801bb7aa787835c3c1760f22\\output\\res\\layout\\cast_expanded_controller_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\hdaha\\Downloads\\ScoutApp-20180127T075104Z-001\\ScoutApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\autocomplete_list_item.xml",
+        "source": "C:\\Users\\hdaha\\Downloads\\ScoutApp-20180127T075104Z-001\\ScoutApp\\app\\src\\main\\res\\layout\\autocomplete_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\hdaha\\Downloads\\ScoutApp-20180127T075104Z-001\\ScoutApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\hdaha\\.android\\build-cache\\6bbd35dae9baefb76fac204dac31ba981dee3482\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\hdaha\\Downloads\\ScoutApp-20180127T075104Z-001\\ScoutApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\hdaha\\.android\\build-cache\\6bbd35dae9baefb76fac204dac31ba981dee3482\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\hdaha\\Downloads\\ScoutApp-20180127T075104Z-001\\ScoutApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\hdaha\\.android\\build-cache\\6bbd35dae9baefb76fac204dac31ba981dee3482\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\hdaha\\Downloads\\ScoutApp-20180127T075104Z-001\\ScoutApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\signup.xml",
+        "source": "C:\\Users\\hdaha\\Downloads\\ScoutApp-20180127T075104Z-001\\ScoutApp\\app\\src\\main\\res\\layout\\signup.xml"
+    },
+    {
+        "merged": "C:\\Users\\hdaha\\Downloads\\ScoutApp-20180127T075104Z-001\\ScoutApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "C:\\Users\\hdaha\\.android\\build-cache\\d7f689ee7961447264fdd9e74ce7d936c5d69ea8\\output\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\hdaha\\Downloads\\ScoutApp-20180127T075104Z-001\\ScoutApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\hdaha\\.android\\build-cache\\6bbd35dae9baefb76fac204dac31ba981dee3482\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\hdaha\\Downloads\\ScoutApp-20180127T075104Z-001\\ScoutApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\hdaha\\.android\\build-cache\\3231ba1d3a55e7801283b28ae079c2953ef17f6a\\output\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\hdaha\\Downloads\\ScoutApp-20180127T075104Z-001\\ScoutApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\hdaha\\.android\\build-cache\\3231ba1d3a55e7801283b28ae079c2953ef17f6a\\output\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\hdaha\\Downloads\\ScoutApp-20180127T075104Z-001\\ScoutApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\location_autocomplete.xml",
+        "source": "C:\\Users\\hdaha\\Downloads\\ScoutApp-20180127T075104Z-001\\ScoutApp\\app\\src\\main\\res\\layout\\location_autocomplete.xml"
+    },
+    {
+        "merged": "C:\\Users\\hdaha\\Downloads\\ScoutApp-20180127T075104Z-001\\ScoutApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_chooser_list_item.xml",
+        "source": "C:\\Users\\hdaha\\.android\\build-cache\\093dcf0617e99f41dddf7dce028c8854f17a21dc\\output\\res\\layout\\mr_chooser_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\hdaha\\Downloads\\ScoutApp-20180127T075104Z-001\\ScoutApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_navigation.xml",
+        "source": "C:\\Users\\hdaha\\Downloads\\ScoutApp-20180127T075104Z-001\\ScoutApp\\app\\src\\main\\res\\layout\\activity_navigation.xml"
+    },
+    {
+        "merged": "C:\\Users\\hdaha\\Downloads\\ScoutApp-20180127T075104Z-001\\ScoutApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\hdaha\\.android\\build-cache\\6bbd35dae9baefb76fac204dac31ba981dee3482\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\hdaha\\Downloads\\ScoutApp-20180127T075104Z-001\\ScoutApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\wallet_test_layout.xml",
+        "source": "C:\\Users\\hdaha\\.android\\build-cache\\52c8c04e3dc3f17088b4b21a69feb33c616ffff4\\output\\res\\layout\\wallet_test_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\hdaha\\Downloads\\ScoutApp-20180127T075104Z-001\\ScoutApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "C:\\Users\\hdaha\\.android\\build-cache\\d7f689ee7961447264fdd9e74ce7d936c5d69ea8\\output\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\hdaha\\Downloads\\ScoutApp-20180127T075104Z-001\\ScoutApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\hdaha\\.android\\build-cache\\6bbd35dae9baefb76fac204dac31ba981dee3482\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\hdaha\\Downloads\\ScoutApp-20180127T075104Z-001\\ScoutApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "C:\\Users\\hdaha\\.android\\build-cache\\d7f689ee7961447264fdd9e74ce7d936c5d69ea8\\output\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "C:\\Users\\hdaha\\Downloads\\ScoutApp-20180127T075104Z-001\\ScoutApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_chooser_dialog.xml",
+        "source": "C:\\Users\\hdaha\\.android\\build-cache\\093dcf0617e99f41dddf7dce028c8854f17a21dc\\output\\res\\layout\\mr_chooser_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\hdaha\\Downloads\\ScoutApp-20180127T075104Z-001\\ScoutApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\hdaha\\.android\\build-cache\\6bbd35dae9baefb76fac204dac31ba981dee3482\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\hdaha\\Downloads\\ScoutApp-20180127T075104Z-001\\ScoutApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "C:\\Users\\hdaha\\.android\\build-cache\\d7f689ee7961447264fdd9e74ce7d936c5d69ea8\\output\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\hdaha\\Downloads\\ScoutApp-20180127T075104Z-001\\ScoutApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_controller_volume_item.xml",
+        "source": "C:\\Users\\hdaha\\.android\\build-cache\\093dcf0617e99f41dddf7dce028c8854f17a21dc\\output\\res\\layout\\mr_controller_volume_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\hdaha\\Downloads\\ScoutApp-20180127T075104Z-001\\ScoutApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_view_pager_recycler.xml",
+        "source": "C:\\Users\\hdaha\\Downloads\\ScoutApp-20180127T075104Z-001\\ScoutApp\\app\\src\\main\\res\\layout\\activity_view_pager_recycler.xml"
+    },
+    {
+        "merged": "C:\\Users\\hdaha\\Downloads\\ScoutApp-20180127T075104Z-001\\ScoutApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_intro_overlay.xml",
+        "source": "C:\\Users\\hdaha\\.android\\build-cache\\5c8d8bb9ab740baa801bb7aa787835c3c1760f22\\output\\res\\layout\\cast_intro_overlay.xml"
+    },
+    {
+        "merged": "C:\\Users\\hdaha\\Downloads\\ScoutApp-20180127T075104Z-001\\ScoutApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_mini_controller.xml",
+        "source": "C:\\Users\\hdaha\\.android\\build-cache\\5c8d8bb9ab740baa801bb7aa787835c3c1760f22\\output\\res\\layout\\cast_mini_controller.xml"
+    },
+    {
+        "merged": "C:\\Users\\hdaha\\Downloads\\ScoutApp-20180127T075104Z-001\\ScoutApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\hdaha\\.android\\build-cache\\6bbd35dae9baefb76fac204dac31ba981dee3482\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\hdaha\\Downloads\\ScoutApp-20180127T075104Z-001\\ScoutApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_display_location_map.xml",
+        "source": "C:\\Users\\hdaha\\Downloads\\ScoutApp-20180127T075104Z-001\\ScoutApp\\app\\src\\main\\res\\layout\\fragment_display_location_map.xml"
+    },
+    {
+        "merged": "C:\\Users\\hdaha\\Downloads\\ScoutApp-20180127T075104Z-001\\ScoutApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\hdaha\\.android\\build-cache\\6bbd35dae9baefb76fac204dac31ba981dee3482\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "C:\\Users\\hdaha\\Downloads\\ScoutApp-20180127T075104Z-001\\ScoutApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_pop_up.xml",
+        "source": "C:\\Users\\hdaha\\Downloads\\ScoutApp-20180127T075104Z-001\\ScoutApp\\app\\src\\main\\res\\layout\\activity_pop_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\hdaha\\Downloads\\ScoutApp-20180127T075104Z-001\\ScoutApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\recycler_cardview_4.xml",
+        "source": "C:\\Users\\hdaha\\Downloads\\ScoutApp-20180127T075104Z-001\\ScoutApp\\app\\src\\main\\res\\layout\\recycler_cardview_4.xml"
+    },
+    {
+        "merged": "C:\\Users\\hdaha\\Downloads\\ScoutApp-20180127T075104Z-001\\ScoutApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\hdaha\\.android\\build-cache\\6bbd35dae9baefb76fac204dac31ba981dee3482\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\hdaha\\Downloads\\ScoutApp-20180127T075104Z-001\\ScoutApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\nav_header_navigation.xml",
+        "source": "C:\\Users\\hdaha\\Downloads\\ScoutApp-20180127T075104Z-001\\ScoutApp\\app\\src\\main\\res\\layout\\nav_header_navigation.xml"
+    },
+    {
+        "merged": "C:\\Users\\hdaha\\Downloads\\ScoutApp-20180127T075104Z-001\\ScoutApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\hdaha\\.android\\build-cache\\6bbd35dae9baefb76fac204dac31ba981dee3482\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\hdaha\\Downloads\\ScoutApp-20180127T075104Z-001\\ScoutApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_controller_material_dialog_b.xml",
+        "source": "C:\\Users\\hdaha\\.android\\build-cache\\093dcf0617e99f41dddf7dce028c8854f17a21dc\\output\\res\\layout\\mr_controller_material_dialog_b.xml"
+    },
+    {
+        "merged": "C:\\Users\\hdaha\\Downloads\\ScoutApp-20180127T075104Z-001\\ScoutApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\hdaha\\.android\\build-cache\\6bbd35dae9baefb76fac204dac31ba981dee3482\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\hdaha\\Downloads\\ScoutApp-20180127T075104Z-001\\ScoutApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\app_bar_navigation.xml",
+        "source": "C:\\Users\\hdaha\\Downloads\\ScoutApp-20180127T075104Z-001\\ScoutApp\\app\\src\\main\\res\\layout\\app_bar_navigation.xml"
+    },
+    {
+        "merged": "C:\\Users\\hdaha\\Downloads\\ScoutApp-20180127T075104Z-001\\ScoutApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_item_prediction.xml",
+        "source": "C:\\Users\\hdaha\\.android\\build-cache\\66b637bfffec9ccb9774c88338384e95874ce656\\output\\res\\layout\\place_autocomplete_item_prediction.xml"
+    },
+    {
+        "merged": "C:\\Users\\hdaha\\Downloads\\ScoutApp-20180127T075104Z-001\\ScoutApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_firebase_login.xml",
+        "source": "C:\\Users\\hdaha\\.android\\build-cache\\89ffea70005778593e02f99a4e4a433d362d1779\\output\\res\\layout\\fragment_firebase_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\hdaha\\Downloads\\ScoutApp-20180127T075104Z-001\\ScoutApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "C:\\Users\\hdaha\\.android\\build-cache\\d7f689ee7961447264fdd9e74ce7d936c5d69ea8\\output\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "C:\\Users\\hdaha\\Downloads\\ScoutApp-20180127T075104Z-001\\ScoutApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_interested.xml",
+        "source": "C:\\Users\\hdaha\\Downloads\\ScoutApp-20180127T075104Z-001\\ScoutApp\\app\\src\\main\\res\\layout\\fragment_interested.xml"
+    },
+    {
+        "merged": "C:\\Users\\hdaha\\Downloads\\ScoutApp-20180127T075104Z-001\\ScoutApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\hdaha\\.android\\build-cache\\6bbd35dae9baefb76fac204dac31ba981dee3482\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\hdaha\\Downloads\\ScoutApp-20180127T075104Z-001\\ScoutApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tooltip.xml",
+        "source": "C:\\Users\\hdaha\\.android\\build-cache\\6bbd35dae9baefb76fac204dac31ba981dee3482\\output\\res\\layout\\tooltip.xml"
+    },
+    {
+        "merged": "C:\\Users\\hdaha\\Downloads\\ScoutApp-20180127T075104Z-001\\ScoutApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "C:\\Users\\hdaha\\.android\\build-cache\\d7f689ee7961447264fdd9e74ce7d936c5d69ea8\\output\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "C:\\Users\\hdaha\\Downloads\\ScoutApp-20180127T075104Z-001\\ScoutApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\hdaha\\.android\\build-cache\\3231ba1d3a55e7801283b28ae079c2953ef17f6a\\output\\res\\layout\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\hdaha\\Downloads\\ScoutApp-20180127T075104Z-001\\ScoutApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_volume_control.xml",
+        "source": "C:\\Users\\hdaha\\.android\\build-cache\\093dcf0617e99f41dddf7dce028c8854f17a21dc\\output\\res\\layout\\mr_volume_control.xml"
+    },
+    {
+        "merged": "C:\\Users\\hdaha\\Downloads\\ScoutApp-20180127T075104Z-001\\ScoutApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\calendar.xml",
+        "source": "C:\\Users\\hdaha\\Downloads\\ScoutApp-20180127T075104Z-001\\ScoutApp\\app\\src\\main\\res\\layout\\calendar.xml"
+    }
+]
